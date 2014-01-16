@@ -7,7 +7,7 @@
  * @license The MIT License (MIT), http://opensource.org/licenses/MIT
  * @link https://github.com/ivantcholakov/codeigniter-phpmailer
  *
- * Tested on production sites with CodeIgniter 3.0-dev (January 16th, 2013) and
+ * Tested on production sites with CodeIgniter 3.0-dev (January 16th, 2014) and
  * PHPMailer Version 5.2.7 (September 12th, 2013).
  */
 
